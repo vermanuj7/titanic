@@ -144,7 +144,6 @@ gdf.plot(y='survival_rate', kind ='bar', title='Survival wrt family size')
 
 # In[9]:
 
-
 axes = sns.catplot(x='Survived', y='relatives',
                    data=train_df, aspect=2.5, hue='Survived' )
 
@@ -152,10 +151,7 @@ axes = sns.catplot(x='Survived', y='relatives',
 # ### drop passengerId column as it is not adding any information
 
 # In[10]:
-
-
 train_df = train_df.drop(['PassengerId'], axis=1)
-
 
 # ### convert Cabin feature to Deck feature by string manipulation
 
