@@ -1,0 +1,88 @@
+23-02-2021 14:05:56 INFO         *****   Code execution begins   *****
+23-02-2021 14:05:56 INFO         The shape of the train data is:891 rows, 12 columns
+23-02-2021 14:05:56 INFO         Column names are:
+['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp', 'Parch', 'Ticket', 'Fare', 'Cabin', 'Embarked']
+23-02-2021 14:05:56 INFO         ******   Code execution ends   ******
+23-02-2021 14:14:23 INFO         *****  
+
+
+ Code execution begins 
+
+
+   *****
+23-02-2021 14:14:23 INFO         The shape of the train data is: 891 rows, 12 columns
+23-02-2021 14:14:23 INFO         Column names are:
+['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp', 'Parch', 'Ticket', 'Fare', 'Cabin', 'Embarked']
+23-02-2021 14:14:23 INFO         ******    
+
+
+Code execution ends  
+
+
+  ******
+23-02-2021 14:15:26 INFO         
+
+*****  
+ Code execution begins 
+   *****
+
+
+23-02-2021 14:15:26 INFO         The shape of the train data is: 891 rows, 12 columns
+23-02-2021 14:15:26 INFO         Column names are:
+['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp', 'Parch', 'Ticket', 'Fare', 'Cabin', 'Embarked']
+23-02-2021 14:15:26 INFO         
+
+******    
+Code execution ends  
+  ******
+
+
+23-02-2021 14:16:07 INFO         
+
+*****  Code execution begins 
+   *****
+
+
+23-02-2021 14:16:07 INFO         The shape of the train data is: 891 rows, 12 columns
+23-02-2021 14:16:07 INFO         Column names are:
+['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp', 'Parch', 'Ticket', 'Fare', 'Cabin', 'Embarked']
+23-02-2021 14:16:07 INFO         
+
+******    Code execution ends 
+  ******
+
+
+23-02-2021 14:17:39 INFO         
+
+*****
+Code execution begins
+*****
+
+
+23-02-2021 14:17:39 INFO         The shape of the train data is: 891 rows, 12 columns
+23-02-2021 14:17:39 INFO         Column names are:
+['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp', 'Parch', 'Ticket', 'Fare', 'Cabin', 'Embarked']
+23-02-2021 14:17:39 INFO         
+
+******
+Code execution ends
+******
+
+
+23-02-2021 14:24:26 INFO         
+
+*****
+Code execution begins
+*****
+
+
+23-02-2021 14:24:26 INFO         The shape of the train data is: 891 rows, 12 columns
+23-02-2021 14:24:26 INFO         Column names are:
+['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp', 'Parch', 'Ticket', 'Fare', 'Cabin', 'Embarked']
+23-02-2021 14:24:26 INFO         
+
+******
+Code execution ends
+******
+
+
